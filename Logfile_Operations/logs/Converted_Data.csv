@@ -1,0 +1,37 @@
+Datetime,Event_Template,Search_string
+2024-09-16 12:30:12,"2024-09-16 12:30:12 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters:  Battery charge (percentage): 70 -> Predicted status: Good
+",logPsm4Paramters
+2024-09-16 12:30:13,"2024-09-16 12:30:13 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters:  Battery Temperature (Celsius): 26 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:14,"2024-09-16 12:30:14 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters:  UPS Temperature (Celsius): 25.9 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:16,"2024-09-16 12:30:16 - Log: 000:10:16.158 ERROR TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters:  Battery Temperature (Celsius): 26 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:22,"2024-09-16 12:30:22 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery charge (percentage): 70 -> Predicted status: Good
+",logPsm4Paramters
+2024-09-16 12:30:23,"2024-09-16 12:30:23 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery Temperature (Celsius): 20 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:24,"2024-09-16 12:30:24 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â UPS Temperature (Celsius): 15 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:26,"2024-09-16 12:30:26 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery charge (percentage): 50 -> Predicted status: Average
+",logPsm4Paramters
+2024-09-16 12:30:29,"2024-09-16 12:30:29 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery charge (percentage): 98 -> Predicted status: Good
+",logPsm4Paramters
+2024-09-16 12:30:30,"2024-09-16 12:30:30 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery Temperature (Celsius): 18 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:31,"2024-09-16 12:30:31 - Log: 000:10:16.158 WARNING TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery Temperature (Celsius): 20 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:32,"2024-09-16 12:30:32 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â UPS Temperature (Celsius): 25.9 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:34,"2024-09-16 12:30:34 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery charge (percentage): 50 -> Predicted status: Average
+",logPsm4Paramters
+2024-09-16 12:30:35,"2024-09-16 12:30:35 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â Battery Temperature (Celsius): 26 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:36,"2024-09-16 12:30:36 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters: Â UPS Temperature (Celsius): 15 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:53,"2024-09-16 12:30:53 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters:  Battery charge (percentage): 98 -> Predicted status: Good
+",logPsm4Paramters
+2024-09-16 12:30:54,"2024-09-16 12:30:54 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters:  Battery Temperature (Celsius): 26 -> Predicted status: Bad
+",logPsm4Paramters
+2024-09-16 12:30:55,"2024-09-16 12:30:55 - Log: 000:10:16.158 INFO TrdPowerManagement::PmuStatusErrorMonitor::logPsm4Paramters:  UPS Temperature (Celsius): 25.9 -> Predicted status: Bad
+",logPsm4Paramters
