@@ -6,7 +6,7 @@ urlpatterns=[
     path('Register',views.Register,name='Register'),
     path('Dashboard/<str:user_name>',views.Dashboard,name='Dashboard'),
     path('Get_Strings_Logs/<str:user_name>',views.Get_Strings_Logs,name='Get_Strings_Logs'),
-    path('Visualization_Task/<str:user_name>',views.Visualization_Task,name='Visualization_Task'),
+    path('Visualization_Task/<str:user_name>/<str:calling_request>',views.Visualization_Task,name='Visualization_Task'),
     # path('Visualization/<str:user_name>',views.Visualization,name='Visualization'),
     # path('Searching_CSV/<str:user_name>',views.Searching_CSV,name='Searching_CSV'),
     # path('search_words/<str:user_name>',views.search_words,name='search_words'),
@@ -18,6 +18,17 @@ urlpatterns=[
     # path('chart_view',views.chart_view,name='chart_view'),
     path('Soring_Word_Wise',views.Soring_Word_Wise,name='Soring_Word_Wise'),
     path('Sorting_Data/<str:user_name>',views.Sorting_Data,name='Sorting_Data'),
-    path('Healthy/<str:user_name>',views.Healthy,name="Healthy")
+    path('Healthy/<str:user_name>',views.Healthy,name="Healthy"),
+    path('Show_Warning/<str:user_name>',views.Show_Warning,name='Show_Warning'),
+    path('Show_Errors/<str:user_name>',views.Show_Errors,name='Show_Errors'),
+    path('All_Data/<str:user_name>',views.All_Data,name='All_Data'),
+    path('Add_New_Keyword/<str:user_name>',views.Add_New_Keyword,name='Add_New_Keyword'),
+    path('Meter_values',views.Meter_values,name='Meter_values'),
+     path('Warning_Loop',views.Warning_Loop,name='Warning_Loop'),
+    path("Error_Loop",views.Error_Loop,name="Error_Loop"),
+     path("All_Data_Loop",views.All_Data_Loop,name="All_Data_Loop"),
+     path("Visualization_Loop",views.Visualization_Loop,name="Visualization_Loop"),
+    
+    
     
 ]
